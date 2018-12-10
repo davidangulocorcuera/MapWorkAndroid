@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">MapExample2</string>
+    <string name="title_activity_maps">Map</string>
+    <string-array name="maps">
+        <item>hibrido</item>
+        <item>satelite</item>
+        <item>none</item>
+    </string-array>
+</resources>
