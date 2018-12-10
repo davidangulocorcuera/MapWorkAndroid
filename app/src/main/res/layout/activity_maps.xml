@@ -25,6 +25,7 @@
             android:layout_height="50dp"
             android:id="@+id/btn_search"
             android:src="@drawable/places_ic_search"
+            android:tint="@android:color/white"
 
     />
 
